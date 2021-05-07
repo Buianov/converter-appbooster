@@ -1,8 +1,6 @@
 import React from "react";
 import "./App.css";
 
-const App: React.FC = () => {
-  return <div className="App">hi</div>;
-};
+const App: React.FC = () => <div className="App">hi</div>;
 
 export default App;
